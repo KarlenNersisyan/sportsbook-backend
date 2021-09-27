@@ -1,7 +1,7 @@
-import PORT from "./constants/utils";
-
 const express = require("express");
 const db = require("./DB/db");
+
+const PORT = process.env.PORT || 3000;
 
 const app = express();
 

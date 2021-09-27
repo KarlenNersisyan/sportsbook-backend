@@ -1,3 +1,5 @@
+import PORT from "./constants/utils";
+
 const express = require("express");
 const db = require("./DB/db");
 
@@ -30,7 +32,6 @@ app.get("/tags", function (request, response) {
   response.send(retVal);
 });
 
-const PORT = process.env.PORT || 3000;
 app.listen(PORT, function () {
   console.log("Server is started on port 3000");
 });

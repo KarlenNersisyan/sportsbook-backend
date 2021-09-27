@@ -1,0 +1,185 @@
+[
+    {
+        "id":1,
+        "name":"Product_1",
+        "short_description":"Short description for product 1",
+        "long_description":"Long description for product 1",
+        "price":300,
+        "quantity":10,
+        "status":"NEW",
+        "category":"MEN",
+        "tag":"tag_2",
+        "images":[
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxSSs8JASXkt_ePtHmTk4NjfTP7miNcyAocPEyIKyQbLj3JKZWWxvK-lWxwa4I-UPHmA&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3kV7TsUHTOOPs7UhdutOfUdEYYsoHm6KlzHEJwbIt7qtNmp8dxoh5VBMySwnecP-M60s&usqp=CAU"
+        ]
+    },
+    {
+        "id":2,
+        "name":"Product_2",
+        "short_description":"Short description for product 2",
+        "long_description":"Long description for product 2",
+        "price":5010,
+        "quantity":30,
+        "status":"NEW",
+        "category":"MEN",
+        "tag":"tag_3",
+        "images":[
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6TbPikUxWLhFgDS89TEAFKdrAoNtfP-DfYJLEOgY5-oLcQPPTwotuuy46wCY2SFY0dCI&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWySj-DVmaE-UWzmAHbSFTQH_tnf6laYrzuhl2UWNUHwvnjhn6Bya9DbdUDVFB4JcmTSc&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1XmETpay9j7UeXkUs6nY6KGq6T5kBztAmb3DrM8zxh8kefEakD__f3MvXptSK8EH1ks&usqp=CAU"
+        ]
+    },
+    {
+        "id":3,
+        "name":"Product_3",
+        "short_description":"Short description for product 3",
+        "long_description":"Long description for product 3",
+        "price":230,
+        "quantity":5,
+        "status":"NEW",
+        "category":"WOMEN",
+        "tag":"tag_3",
+        "images":[
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdu1EYM5sN5-jXU2VnhVMKNFLEbXKc44iqe6H4emsN0WC3922wu42d_9ZMdhCRsIhy-o&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZPjj2fgvNarpOgnbfSnHDCtH856uw6mIKo5to_yCFf66S-1zdqmisDcN_7DczT0cTuzc&usqp=CAU"
+        ]
+    },
+    {
+        "id":4,
+        "name":"Product_4",
+        "short_description":"Short description for product 4",
+        "long_description":"Long description for product 4",
+        "price":210,
+        "quantity":11,
+        "status":"NEW",
+        "category":"MEN",
+        "tag":"tag_3",
+        "images":[
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLM7k5QZTKe3IHcDHgfwRPMPXdAJbPkFQSTl6e-9Jxm1o-_SmY8VvIO7YWwzV1VBTSnjo&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWySj-DVmaE-UWzmAHbSFTQH_tnf6laYrzuhl2UWNUHwvnjhn6Bya9DbdUDVFB4JcmTSc&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlFrKiQHeLYp8srk4AnmSOziCN71MrnaVuqYuGceCM7aLZfD0dyxHeKKWrNSoeTHbxiBc&usqp=CAU"
+        ]
+    },
+    {
+        "id":5,
+        "name":"Product_5",
+        "short_description":"Short description for product 5",
+        "long_description":"Long description for product 5",
+        "price":1000,
+        "quantity":16,
+        "status":"SALE",
+        "category":"WOMEN",
+        "tag":"tag_1",
+        "images":[
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE-DvV-c_6QwUyek8PfawttfUnQnAOgLOBe025VPSL_A0zDuAuCDCQH3unod9ctB-WNpo&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_WoMbEasZMkUPwyArCzvByPiRz_Cn_B5IJ7yV5j86-igm3ccgob1R_AKuxM8Xv_pUJ4I&usqp=CAU"
+        ]
+    },
+    {
+        "id":6,
+        "name":"Product_6",
+        "short_description":"Short description for product 6",
+        "long_description":"Long description for product 6",
+        "price":12000,
+        "quantity":65,
+        "status":"SALE",
+        "category":"WOMEN",
+        "tag":"tag_2",
+        "images":[
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp2OQwWIcU1elwqxzo-uW-m0mMPaPY9iLaIaP9UgeKvVOywnqGjl28lWVsVYv2XIaYQVE&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6K0QRTwaCrJV1P1LP9uuobIDbTyM_T_DjwGu5ZmfVeepgHgImj62Cus3jJJeO2p5XTLA&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDjIk0ufEDTeRmoxv3aP5ui2Di2Xfnyy-lUlbyPVRh0tdQmYIHCyBS1TTklbfAYp4A3hg&usqp=CAU"
+        ]
+    },
+    {
+        "id":7,
+        "name":"Product_7",
+        "short_description":"Short description for product 7",
+        "long_description":"Long description for product 7",
+        "price":15000,
+        "quantity":21,
+        "status":"SALE",
+        "category":"WOMEN",
+        "tag":"tag_2",
+        "images":[
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpLU_EXuYbnNPmZqbeWAamhlzY9e1abz16-za3X10K6KX-8gS-YffFD7F4n-oYEbgwYRI&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs6fHdZPzCz5xRkYVFy_3QaCh-2gqZltZ-cyvRidwwa3pExOxXjL6IqbUqO8PePae6vxg&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHl8sbjA0IXlRmnbWlY7dlk0wg8ypwNa2pnyaUWGw80ZhoXB6K04adm3UCbtcsyFcYdQ&usqp=CAU"
+        ]
+    },
+    {
+        "id":8,
+        "name":"Product_8",
+        "short_description":"Short description for product 8",
+        "long_description":"Long description for product 8",
+        "price":100,
+        "quantity":42,
+        "status":"NEW",
+        "category":"MEN",
+        "tag":"tag_1",
+        "images":[
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrEtbb31SMk7afvwZcpHKmeRXaplW-Z4lFDLMyPMBPB7OeWMIBsjCGGGM2FtioMLlujYs&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZQMgD5pfRJTwGDpF6W0gHKNCRWOqahCXHjd1tSzSd-rB1drp2aTBQEJkSpvxmWUQleU&usqp=CAU"
+        ]
+    },
+    {
+        "id":9,
+        "name":"Product_9",
+        "short_description":"Short description for product 9",
+        "long_description":"Long description for product 9",
+        "price":6000,
+        "quantity":1,
+        "status":"SALE",
+        "category":"MEN",
+        "tag":"tag_1",
+        "images":[
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOEUad279Y4ghfbgDNUP0mBfRPnLazshcXM6qDBtrKcabhz0vfdd25NFfbDqPOdIvd_A&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRst_WigBbnELnW8NqZd_jpK1clINaJ2iNlsLM-0uxGpQYMsAB2ZXc9-zI-FlplPmxZTYQ&usqp=CAU"
+        ]
+    },
+    {
+        "id":10,
+        "name":"Product_10",
+        "short_description":"Short description for product 10",
+        "long_description":"Long description for product 10",
+        "price":3200,
+        "quantity":3,
+        "status":"",
+        "category":"MEN",
+        "tag":"tag_1",
+        "images":[
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeiGEMk6s4-5Za9eeoDjN5ae2C2nKJ96z80NotEptKmoMer_huOqFFBHz4pw9vpl2v5iA&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwLvmE-6Szax4GgvxVFGAC8yDw98BRSJTQAJQdqXg4vPEn4wWJcpy9TPt1nxtaa5LLGRE&usqp=CAU"
+        ]
+    },
+    {
+        "id":11,
+        "name":"Product_11",
+        "short_description":"Short description for product 11",
+        "long_description":"Long description for product 11",
+        "price":850,
+        "quantity":0,
+        "status":"",
+        "category":"WOMEN",
+        "tag":"tag_1",
+        "images":[
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLORXzzn4CT-YuQFsI6pH2elWju50a5OfZXgm377400raMrKLTX9kVN01PXDcIAqLgUJs&usqp=CAU"
+        ]
+    },
+    {
+        "id":12,
+        "name":"Product_12",
+        "short_description":"Short description for product 12",
+        "long_description":"Long description for product 12",
+        "price":900,
+        "quantity":10,
+        "status":"NEW",
+        "category":"WOMEN",
+        "tag":"tag_1",
+        "images":[
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoj8t6sCWqB9QR3j4BG6EuQyoCBND9J6r7rAwFkgqyUmY3JPhQK_d6HnuNCzyfXWan5K4&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-aeAIUfMvZUYiIp8yB8yGOrw2AegartgNtkr5SrW0AHutP8uzwTGY4GfzFPywtzaV2w&usqp=CAU"
+        ]
+    }
+]
